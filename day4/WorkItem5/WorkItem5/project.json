@@ -1,0 +1,20 @@
+{
+  "name": "WorkItem5",
+  "description": "Work Item 5 process",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Core.Activities": "18.1.6621.12947",
+    "UiPath.Credentials.Activities": "1.1.6479.13204",
+    "UiPath.Excel.Activities": "2.0.6526.16321",
+    "UiPath.Mail.Activities": "1.1.6562.21018",
+    "UiPath.PDF.Activities": "1.0.6479.13204"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.1.2.0",
+  "projectVersion": "1.0.6634.27823",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
